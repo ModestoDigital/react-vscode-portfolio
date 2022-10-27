@@ -1,4 +1,10 @@
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import {
+  FaGithub,
+  FaLinkedin,
+  FaEnvelope,
+  FaPhoneSquare,
+  FaWhatsappSquare,
+} from "react-icons/fa";
 
 export const links = [
   {
@@ -16,7 +22,19 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "digital.modesto@gmail.com",
+    href: "mailto:digital.modesto@gmail.com",
     icon: <FaEnvelope />,
+  },
+  {
+    index: 3,
+    title: "Contact me via Phone",
+    href: "tel:+5547996325454",
+    icon: <FaPhoneSquare />,
+  },
+  {
+    index: 4,
+    title: "Contact me via WhatsApp",
+    href: "https://api.whatsapp.com/send?phone=5547996325454&text=Hi%20Daniel,%20I%20saw%20your%20developer%20portfolio...",
+    icon: <FaWhatsappSquare />,
   },
 ];
