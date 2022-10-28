@@ -4,6 +4,7 @@ import {
   FaEnvelope,
   FaPhoneSquare,
   FaWhatsappSquare,
+  FaFileDownload,
 } from "react-icons/fa";
 
 export const links = [
@@ -36,5 +37,11 @@ export const links = [
     title: "Contact me via WhatsApp",
     href: "https://api.whatsapp.com/send?phone=5547996325454&text=Hi%20Daniel,%20I%20saw%20your%20developer%20portfolio...",
     icon: <FaWhatsappSquare />,
+  },
+  {
+    index: 5,
+    title: "Download My CV",
+    href: "https://drive.google.com/uc?id=1WcroFlaR8zaCN2ooV2t0TJ3ZRmS_m_ju&export=download",
+    icon: <FaFileDownload />,
   },
 ];
