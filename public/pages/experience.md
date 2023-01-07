@@ -1,6 +1,20 @@
 # 👨‍💻 Experience
 
-**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021)_
+**Software engineer** @ [Globo](https://redeglobo.globo.com/) _(Nov 2022)_
+
+Software development of WEB and Mobile solutions for internal and public use in a TV network and its television programs such as Reality Shows interactive technologies.
+
+- Detailed achievements:
+
+  - Created a Supermarket application for use in a Reality Show.
+  - Created a clothing shop app for a reality show.
+  - Implemented new systems in resource management for a reality Show.
+
+  - _**Technologies used:**_ JavaScript, TypeScripy, ES6+, Node.js, Express.js, Jest, MongoDb, Mongoose, Mysql, Sequelize, Reactive Native, Angular, Python, React.js, Tailwind CSS, Bootstrap.
+
+&nbsp;
+
+**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021 - Jan 2023)_
 
 Completed full lifecycle application development to SRM business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 
