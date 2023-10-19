@@ -23,7 +23,7 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "mailto:digital.modesto@gmail.com",
+    href: "mailto:daniel.o.modesto@hotmail.com",
     icon: <FaEnvelope />,
   },
   {
@@ -41,7 +41,7 @@ export const links = [
   {
     index: 5,
     title: "Download My CV",
-    href: "https://drive.google.com/uc?id=1IeTvHpmTIJiBNU2UhJ4vsekrp-dj5b0G&authuser=0&export=download",
+    href: "https://drive.google.com/uc?id=1UJ9bfZgu1rasFInAX3k6j-6Bxskv4o04&export=download",
     icon: <FaFileDownload />,
   },
 ];

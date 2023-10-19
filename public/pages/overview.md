@@ -2,26 +2,26 @@
 
 ## Summary
 
-I am first and foremost passionate for problem-solving, from a software feature that solves a user pain to the management of processes through established Frameworks of project management, Product Discovery, Scrum, Kanban and Agile Methodologies.
-In my career, I acted from Software developer to Project manager, always following work ethics and best practices, aiming to bring continuous performance and efficiency improvements in all solutions I've worked.
-I have always been regarded as a very focused professional and hardworking person, receiving once an award as best service provided worldwide during an internal company review.
-Furthermore, I currently live in Brazil, I am fluent in English and Spanish and native in Portuguese.
+I am a software engineer at Globo, where I create and develop features for the a BI tool that helps the company make data-driven decisions. I have over seven years of experience in analysis and development of systems, project management, and agile methodologies, such as SCRUM and KANBAN.
 
-Stack : React, Node, JavaScript, Typescript, Java, C#, Google Cloud, MySQL, Postgres, Firebase e MongoDB.
+My goal is to solve problems with ethical and best practices, delivering complete and quality solutions for the needs of clients and end users. I use Google BQ, Java, Spring Boot, Python and MongoDb to work on the data analysis and automation , creating faster and more dynamic ways to analyze and display big data using ES6+, JS, TS, Angula. I also have expertise in web and mobile development with technologies such as React, React Native, VUE, Node, C#, Google Cloud, MySQL, Postgres, Firebase, and MongoDB, and CI/CD technologies such as AWS, Firestore, Hostgator, GIT and Automated DEployment Pipelines. Additionally, I work as a tech lead at Vendee, a startup that offers e-commerce solutions for small businesses.
+
+Stack : React, Angular, Node, JavaScript, Typescript, Java, Spring Boot, C#, Google Cloud, AWS, BQ, Redis, MySQL, Postgres, Firebase e MongoDB.
 
 ## Experience
 
 **Software engineer** @ [Globo](https://redeglobo.globo.com/) _(Nov 2022)_
 
-Software development of WEB and Mobile solutions for internal and public use in a TV network and its television programs such as Reality Shows interactive technologies.
+I developed Features in the BI Tool at Globo, helping with decision making and prioritization of stories and analysis of technical complexity. I participated in the data analysis automation process, which won an internal award at Globo as the best innovation project of 2023.
+Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with Angular. I participated in the data and results automation project, creating faster and more dynamic ways to analyze and demonstrate Big Data.
 
 - Detailed achievements:
 
-  - Created a Supermarket application for use in a Reality Show.
-  - Created a clothing shop app for a reality show.
-  - Implemented new systems in resource management for a reality Show.
+  - Data Analisys Automation, reducing data processing and delivery from 20 to 4 days.
+  - My team won an internal award for best innovation project of 2023.
+  - Implemented new features and introduced componentization to the development process.
 
-  - _**Technologies used:**_ JavaScript, TypeScripy, ES6+, Node.js, Express.js, Jest, MongoDb, Mongoose, Mysql, Sequelize, Reactive Native, Angular, Python, React.js, Tailwind CSS, Bootstrap.
+  - _**Technologies used:**_ JavaScript, TypeScripy, ES6+, Node.js, Express.js, Jest, Big Query, Redis, MongoDb, Mongoose, Mysql, Sequelize, Reactive Native, Angular, Python, React.js, Tailwind CSS, Bootstrap.
 
 &nbsp;
 
