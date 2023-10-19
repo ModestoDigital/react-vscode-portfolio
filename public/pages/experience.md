@@ -2,15 +2,16 @@
 
 **Software engineer** @ [Globo](https://redeglobo.globo.com/) _(Nov 2022)_
 
-Software development of WEB and Mobile solutions for internal and public use in a TV network and its television programs such as Reality Shows interactive technologies.
+I developed Features in the BI Tool at Globo, helping with decision making and prioritization of stories and analysis of technical complexity. I participated in the data analysis automation process, which won an internal award at Globo as the best innovation project of 2023.
+Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with Angular. I participated in the data and results automation project, creating faster and more dynamic ways to analyze and demonstrate Big Data.
 
 - Detailed achievements:
 
-  - Created a Supermarket application for use in a Reality Show.
-  - Created a clothing shop app for a reality show.
-  - Implemented new systems in resource management for a reality Show.
+  - Data Analisys Automation, reducing data processing and delivery from 20 to 4 days.
+  - My team won an internal award for best innovation project of 2023.
+  - Implemented new features and introduced componentization to the development process.
 
-  - _**Technologies used:**_ JavaScript, TypeScripy, ES6+, Node.js, Express.js, Jest, MongoDb, Mongoose, Mysql, Sequelize, Reactive Native, Angular, Python, React.js, Tailwind CSS, Bootstrap.
+  - _**Technologies used:**_ JavaScript, TypeScripy, ES6+, Node.js, Express.js, Jest, Big Query, Redis, MongoDb, Mongoose, Mysql, Sequelize, Reactive Native, Angular, Python, React.js, Tailwind CSS, Bootstrap.
 
 &nbsp;
 
