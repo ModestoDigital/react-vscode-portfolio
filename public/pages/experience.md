@@ -2,8 +2,8 @@
 
 **Software engineer** @ [Globo](https://redeglobo.globo.com/) _(Nov 2022)_
 
-I developed Features in the BI Tool at Globo, helping with decision making and prioritization of stories and analysis of technical complexity. I participated in the data analysis automation process, which won an internal award at Globo as the best innovation project of 2023.
-Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with Angular. I participated in the data and results automation project, creating faster and more dynamic ways to analyze and demonstrate Big Data.
+I developed Features in the Market Intelligence Tool at Globo, helping with decision making and prioritization  of stories and analysis of technical complexity. I participated in the data analysis automation process, which won an internal award at Globo as the best innovation project of 2023. 
+Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with Angular. I participated in the data and results automation project, creating faster and more dynamic ways to analyze and demonstrate Big Data. 
 
 - Detailed achievements:
 
@@ -15,7 +15,7 @@ Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with 
 
 &nbsp;
 
-**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021 - Jan 2023)_
+**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021 - May 2025)_
 
 Completed full lifecycle application development to SRM business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 
