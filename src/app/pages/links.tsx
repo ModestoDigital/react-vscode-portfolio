@@ -41,7 +41,7 @@ export const links = [
   {
     index: 5,
     title: "Download My CV",
-    href: "https://drive.google.com/uc?id=1UJ9bfZgu1rasFInAX3k6j-6Bxskv4o04&export=download",
+    href: "https://drive.google.com/uc?id=1AriSBzrIrp45mR8uMheC4_WEO_HQzYkb&export=download",
     icon: <FaFileDownload />,
   },
 ];

@@ -2,9 +2,9 @@
 
 ## Summary
 
-I am a software engineer at Globo, where I create and develop features for the a BI tool that helps the company make data-driven decisions. I have over seven years of experience in analysis and development of systems, project management, and agile methodologies, such as SCRUM and KANBAN.
+As a Software Engineer at Globo, I have contributed to the development of innovative data intelligence tools, including an award-winning automation project that enhanced decision-making processes. Leveraging expertise in Java, Spring Boot, Angular, and Google BigQuery, I focus on creating dynamic and efficient solutions for handling and visualizing Big Data. My work emphasizes collaborative problem-solving and technical excellence to deliver impactful results.
 
-My goal is to solve problems with ethical and best practices, delivering complete and quality solutions for the needs of clients and end users. I use Google BQ, Java, Spring Boot, Python and MongoDb to work on the data analysis and automation , creating faster and more dynamic ways to analyze and display big data using ES6+, JS, TS, Angula. I also have expertise in web and mobile development with technologies such as React, React Native, VUE, Node, C#, Google Cloud, MySQL, Postgres, Firebase, and MongoDB, and CI/CD technologies such as AWS, Firestore, Hostgator, GIT and Automated DEployment Pipelines. Additionally, I work as a tech lead at Vendee, a startup that offers e-commerce solutions for small businesses.
+With over eight years of experience in software development and two years as tech lead, my mission is to design high-quality, scalable applications that empower businesses to achieve their goals. My role at Globo involves integrating backend, frontend, and cloud technologies to optimize data workflows, while my leadership at Vendee demonstrated my ability to mentor teams and adapt leadership styles to individual needs. I am driven by a commitment to innovation, collaboration, and delivering value through technology.
 
 Stack : React, Angular, Node, JavaScript, Typescript, Java, Spring Boot, C#, Google Cloud, AWS, BQ, Redis, MySQL, Postgres, Firebase e MongoDB.
 
@@ -25,7 +25,7 @@ Data analysis with Google BQ, Back-end with Java and Spring Boot and Front with 
 
 &nbsp;
 
-**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021)_
+**Tech Lead / CTO** @ [Vendee](https://www.vendee.com.br/) _(Nov 2021 - May 2025)_
 
 Completed full lifecycle application development to SRM business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 
